@@ -1,0 +1,12 @@
+{
+  "name": "my-ai-code-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Demo project demonstrating usage of @bhabani0_0/my-ai-code",
+  "scripts": {
+    "start": "npx @bhabani0_0/my-ai-code --help"
+  },
+  "dependencies": {
+    "@bhabani0_0/my-ai-code": "^1.1.0"
+  }
+}
